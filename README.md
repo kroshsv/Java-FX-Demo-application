@@ -1,6 +1,8 @@
 # Java-FX-Demo-application
 Java FX Demo application with custom controls
 
+Start point \src\custcontrol\CustControl.java
+
 Программное обеспечение необходимое для работы данного приложения:
 
  - MS SQL Server 2008 Express Edition
